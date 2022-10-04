@@ -1,4 +1,6 @@
 **/.idea
 **/bin
 **/obj
+**/target
 .DS_Store
+.vs

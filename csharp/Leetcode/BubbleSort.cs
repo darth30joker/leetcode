@@ -21,4 +21,9 @@ public static class BubbleSort
 
         return array;
     }
+
+    public static void Main(string[] args)
+    {
+        Sort(new int[] { 3, 2, 1 });
+    }
 }
